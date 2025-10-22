@@ -48,13 +48,4 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thpimentel&show_icons=true&theme=tokyonight" alt="GitHub stats" width="45.9%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thpimentel&theme=tokyonight" alt="GitHub streak" width="48%" />
-</p>
-
-
-
 ⭐ *“A melhor forma de prever o futuro é criá-lo — código por código.”*
