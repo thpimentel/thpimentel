@@ -55,22 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thpimentel&theme=tokyonight" alt="GitHub streak" width="48%" />
 </p>
 
----
 
-## 🚀 Projetos em destaque
-
-- 🧩 **[Nome do Projeto 1](https://github.com/seu-usuario/projeto1)** — Aplicação fullstack com .NET + Angular  
-- 🔐 **[Nome do Projeto 2](https://github.com/seu-usuario/projeto2)** — API REST segura com autenticação JWT  
-- 📦 **[Nome do Projeto 3](https://github.com/seu-usuario/projeto3)** — Automação de deploy usando Azure Pipelines
-
----
-
-## 🌎 Onde me encontrar
-
-📫 **Email:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)  
-💼 **LinkedIn:** [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
-🌐 **Portfólio:** [seusite.dev](https://seusite.dev)
-
----
 
 ⭐ *“A melhor forma de prever o futuro é criá-lo — código por código.”*
