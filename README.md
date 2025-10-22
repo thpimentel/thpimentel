@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Thiago
 
 💻 **Desenvolvedor Fullstack** apaixonado por criar soluções que conectam tecnologia e pessoas.  
 🚀 Foco em **JavaScript | TypeScript | Node.js | React | Next.js | Docker | PostgreSQL**  
@@ -41,8 +41,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight" alt="GitHub streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thpimentel&show_icons=true&theme=tokyonight" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thpimentel&theme=tokyonight" alt="GitHub streak" width="48%" />
 </p>
 
 ---
